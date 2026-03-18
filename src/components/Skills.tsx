@@ -11,13 +11,13 @@ export default function Skills() {
     {
       category: 'Frontend',
       icon: Layout,
-      technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Next.js', 'Vue.js'],
+      technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Next.js', 'Vue.js', 'Bootstrap'],
       color: 'from-cyan-500 to-blue-500',
     },
     {
       category: 'Backend',
       icon: Server,
-      technologies: ['Node.js', 'Express', 'Python', 'Django', 'PostgreSQL'],
+      technologies: ['Node.js', 'Express', 'Python', 'Django', 'PHP', 'C#', 'Java', 'PostgreSQL'],
       color: 'from-violet-500 to-purple-500',
     },
     {
@@ -41,7 +41,7 @@ export default function Skills() {
     {
       category: 'Tools',
       icon: Code2,
-      technologies: ['VS Code', 'Figma', 'Postman', 'Jira', 'Notion'],
+      technologies: ['VS Code', 'Wamp', 'Visual Studio', 'Figma', 'Postman', 'Swagger', 'Jira', 'Notion'],
       color: 'from-indigo-500 to-blue-500',
     },
   ];
